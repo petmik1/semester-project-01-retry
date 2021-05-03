@@ -1,0 +1,65 @@
+@import "../styles/variables.css";
+@media (min-width: 550px) {
+  body {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    min-height: 100vh;
+  }
+  .navigation {
+    display: flex;
+    margin: auto 30px;
+    justify-content: space-evenly;
+    width: auto;
+  }
+  .label__hamburger {
+    display: none;
+  }
+  header {
+    display: grid;
+    grid-template-columns: 2fr 4fr;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  .navigation,
+  .navigation a {
+    background-color: #fff;
+    color: black;
+  }
+}
+
+@media (min-width: 750px) {
+  nav a {
+    font-size: 20px;
+    margin: 5px;
+  }
+  .main-info-index {
+    display: flex;
+    align-items: stretch;
+  }
+
+  .main-info-index * {
+    padding: 0 25px;
+    max-width: 500px;
+  }
+  .main_info > * {
+    display: flex;
+  }
+  .desktop_text {
+    margin: auto;
+  }
+  .visit_main_info {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .maps {
+    height: 400px;
+  }
+/* events */
+
+
+}
+@media (min-width: 900px) {
+  .navigation a {
+    margin: 35px;
+  }
+}
