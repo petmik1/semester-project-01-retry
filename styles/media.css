@@ -42,6 +42,9 @@
   .main_info {
     display: flex;
   }
+  .main_info * {
+    flex: 1;
+  }
   .main_info p {
     margin: 20px;
   }
