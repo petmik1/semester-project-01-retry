@@ -53,6 +53,9 @@
     width: 400px;
     margin-right: 20px;
   }
+  a {
+    font-size: 30px;
+  }
   /* index */
   .index_main_sect {
     display: flex;
@@ -71,14 +74,12 @@
   .maps {
     height: 400px;
   }
-  /* events */
+  /*  */
 
   /* explore */
 }
 @media (min-width: 900px) {
   .navigation {
     margin-right: 105px;
-  }
-  .navigation a {
   }
 }

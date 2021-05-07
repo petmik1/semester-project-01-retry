@@ -29,15 +29,18 @@ header label i {
 h1 {
   text-align: center;
   font: 700 45px var(--text-heading);
+  text-transform: capitalize;
 }
 h2 {
   font: 400 30px var(--text-heading);
+  text-transform: capitalize;
 }
 p {
   font: 400 18px var(--text-heading);
 }
 a {
-  font: 400 30px var(--text-heading);
+  font: 400 20px var(--text-heading);
+  text-transform: capitalize;
 }
 .header_underline {
   border-bottom: solid 2px var(--color-lines-and-icons);
@@ -81,8 +84,8 @@ main * {
 .button {
   background-color: #3dc28d;
   border: solid 2px var(--color-lines-and-icons);
-  max-width: 250px;
-  height: 20px;
+  max-width: 320px;
+  height: 30px;
   margin: 10px auto;
   border-radius: 20px;
   text-align: center;
