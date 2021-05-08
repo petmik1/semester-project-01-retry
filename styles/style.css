@@ -26,22 +26,7 @@ i {
 header label i {
   font-size: 35px;
 }
-h1 {
-  text-align: center;
-  font: 700 45px var(--text-heading);
-  text-transform: capitalize;
-}
-h2 {
-  font: 400 30px var(--text-heading);
-  text-transform: capitalize;
-}
-p {
-  font: 400 18px var(--text-heading);
-}
-a {
-  font: 400 20px var(--text-heading);
-  text-transform: capitalize;
-}
+
 .header_underline {
   border-bottom: solid 2px var(--color-lines-and-icons);
 }
@@ -81,6 +66,22 @@ main * {
   width: 95%;
   display: block;
 }
+h1 {
+  text-align: center;
+  font: 700 45px var(--text-heading);
+  text-transform: capitalize;
+}
+h2 {
+  font: 400 30px var(--text-heading);
+  text-transform: capitalize;
+}
+p {
+  font: 400 18px var(--text-heading);
+}
+a {
+  font: 400 20px var(--text-heading);
+  text-transform: capitalize;
+}
 .button {
   background-color: #3dc28d;
   border: solid 2px var(--color-lines-and-icons);
@@ -97,8 +98,6 @@ main * {
 .button:hover {
   background-color: #f27405;
 }
-
-/* events */
 
 /* footer */
 footer {

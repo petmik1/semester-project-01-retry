@@ -1,5 +1,5 @@
 :root {
-  --text-paragraph: "noto-sans-display", "sans-serif";
+  --text-paragraph: "noto-sans-display", serif;
   --text-heading: "baskerville-display-pt", serif;
 
   --color-lines-and-icons: #2f8bd5;
