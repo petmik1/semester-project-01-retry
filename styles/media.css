@@ -37,6 +37,11 @@
     background-color: rgba(54, 54, 104, 0.082);
     border-radius: 20px;
   }
+  /* visit */
+  .visit_form  {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
 }
 
 @media (min-width: 750px) {

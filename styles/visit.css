@@ -8,3 +8,7 @@
     margin-top: 30px;
     line-height: 10px;
 }
+.visit_form div input {
+  border-color: var(--color-lines-and-icons);
+  
+}
