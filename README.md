@@ -11,7 +11,6 @@ the project is a school project which meant to be learned from and graded. it st
 
 - HTML
 - CSS
-- JavaScript
 
 ## Getting Started
 
