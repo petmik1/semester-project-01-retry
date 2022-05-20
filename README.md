@@ -1,7 +1,7 @@
 
 # Rainydays
 
-![image](iamgeReadme/semesterProjectIndex.png)
+![image](imageReadme/semesterProjectIndex.png)
 
 ## Description
 
